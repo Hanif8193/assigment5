@@ -1,3 +1,5 @@
 streamlit
 cryptography
+pandas
+numpy
 
